@@ -2,7 +2,6 @@
 name: "🚀 New Feature"
 about: "Define a new, cross-client analytics feature or template."
 title: "[FEATURE] - "
-labels: "Type: Feature"
 ---
 
 ---  # BOT-OWNED METADATA
