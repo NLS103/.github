@@ -19,10 +19,6 @@ work_item:
 - [ ] Question 1: How does the CRM handle prorated discounts?
 - [ ] Question 2: What is the source of truth for technician cost codes?
 
-## ❓ Subtask Composition
-*The developer composes subtasks as part of design process*
-- [ ] Subtasks written
-
 ## 📝 Requirements
 *(This section is filled out after the Discovery phase is complete)*
 *A detailed breakdown of the feature specification.*
